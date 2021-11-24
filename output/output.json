@@ -1,0 +1,24 @@
+{
+    "review": "We had bought by accident a set of DVD's that were a specific region not the US and all attempts on regular DVD players to make region free were a wasted endeavor. This DVD is pf coarse region free and works great. Now we can watch our favorite show.",
+    "topics": [
+        {
+            "aspect": {
+                "features": 0.6026114123705065
+            },
+            "sentence": "bought accident set dvd s specific region attempt regular dvd player region free waste endeavor"
+        },
+        {
+            "aspect": {
+                "ease-of-use": 0.30557934716587337,
+                "features": 0.4748187923782645
+            },
+            "sentence": "dvd pf coarse region free work great"
+        },
+        {
+            "aspect": {
+                "No Topic": 1
+            },
+            "sentence": "watch favorite"
+        }
+    ]
+}
